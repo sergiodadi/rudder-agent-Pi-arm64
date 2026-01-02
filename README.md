@@ -1,5 +1,5 @@
 # rudder-agent-Pi-arm64
-I have a little homelab with Raspberry and Intel N100. I created packages for my homelab  to use rudder agent with :
+I have a little homelab with Raspberry and Intel N100. I created packages for my homelab  to use rudder agent with 
 
 - Raspberry **Debian** arm64
 - Raspberry **Ubuntu** arm64
