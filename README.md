@@ -29,7 +29,7 @@ Then configure the agent as described in the [official documentation](https://do
 | Version | Debian 12 (Bookworm) | Ubuntu 24.04 (Noble) |
 |---|---|---|
 | 9.1.4 | [v9.1.4-debian-bookworm](https://github.com/sergiodadi/rudder-agent-Pi-arm64/releases/tag/v9.1.4-debian-bookworm) | |
-| 9.0.4 | [v9.0.4-debian-bookwoem](https://github.com/sergiodadi/rudder-agent-Pi-arm64/releases/tag/v9.0.4-debian-bookwoem) | |
+| 9.0.4 | [v9.0.4-debian-bookworm](https://github.com/sergiodadi/rudder-agent-Pi-arm64/releases/tag/v9.0.4-debian-bookworm) | |
 | 9.0.3 | [v9.0.3-debian-bookworm](https://github.com/sergiodadi/rudder-agent-Pi-arm64/releases/tag/v9.0.3-debian-bookworm) | [v9.0.3-ubuntu-noble](https://github.com/sergiodadi/rudder-agent-Pi-arm64/releases/tag/v9.0.3-ubuntu-noble) |
 | 9.0.2 | [v9.0.2-debian-bookworm](https://github.com/sergiodadi/rudder-agent-Pi-arm64/releases/tag/v9.0.2-debian-bookworm) | [v9.0.2-ubuntu-noble](https://github.com/sergiodadi/rudder-agent-Pi-arm64/releases/tag/v9.0.2-ubuntu-noble) |
 | 9.0.1 | [v9.0.1](https://github.com/sergiodadi/rudder-agent-Pi-arm64/releases/tag/v9.0.1) | [v9.0.1-ubuntu-noble](https://github.com/sergiodadi/rudder-agent-Pi-arm64/releases/tag/v9.0.1-ubuntu-noble) |
