@@ -26,22 +26,22 @@ Then configure the agent as described in the [official documentation](https://do
 
 ## Release history
 
-| Version | Debian 12 (Bookworm) | Ubuntu 24.04 (Noble) |
-|---|---|---|
-| 9.1.5 | [v9.1.5-debian-bookworm](https://github.com/sergiodadi/rudder-agent-Pi-arm64/releases/tag/v9.1.5-debian-bookworm) | |
-| 9.1.4 | [v9.1.4-debian-bookworm](https://github.com/sergiodadi/rudder-agent-Pi-arm64/releases/tag/v9.1.4-debian-bookworm) | |
-| 9.0.4 | [v9.0.4-debian-bookworm](https://github.com/sergiodadi/rudder-agent-Pi-arm64/releases/tag/v9.0.4-debian-bookworm) | |
-| 9.0.3 | [v9.0.3-debian-bookworm](https://github.com/sergiodadi/rudder-agent-Pi-arm64/releases/tag/v9.0.3-debian-bookworm) | [v9.0.3-ubuntu-noble](https://github.com/sergiodadi/rudder-agent-Pi-arm64/releases/tag/v9.0.3-ubuntu-noble) |
-| 9.0.2 | [v9.0.2-debian-bookworm](https://github.com/sergiodadi/rudder-agent-Pi-arm64/releases/tag/v9.0.2-debian-bookworm) | [v9.0.2-ubuntu-noble](https://github.com/sergiodadi/rudder-agent-Pi-arm64/releases/tag/v9.0.2-ubuntu-noble) |
-| 9.0.1 | [v9.0.1](https://github.com/sergiodadi/rudder-agent-Pi-arm64/releases/tag/v9.0.1) | [v9.0.1-ubuntu-noble](https://github.com/sergiodadi/rudder-agent-Pi-arm64/releases/tag/v9.0.1-ubuntu-noble) |
-| 9.0.0 | [v9.0.0](https://github.com/sergiodadi/rudder-agent-Pi-arm64/releases/tag/v9.0.0) | [v9.0.0-ubuntu-noble](https://github.com/sergiodadi/rudder-agent-Pi-arm64/releases/tag/v9.0.0-ubuntu-noble) |
-| 8.3.8 | [v8.3.8](https://github.com/sergiodadi/rudder-agent-Pi-arm64/releases/tag/v8.3.8) | |
-| 8.3.7 | | [v8.3.7](https://github.com/sergiodadi/rudder-agent-Pi-arm64/releases/tag/v8.3.7) |
-| 8.3.1 | [v8.3.1](https://github.com/sergiodadi/rudder-agent-Pi-arm64/releases/tag/v8.3.1) (distribution not specified) | |
-| 8.2.6 | [v8.2.6](https://github.com/sergiodadi/rudder-agent-Pi-arm64/releases/tag/v8.2.6) (distribution not specified) | |
-| 8.2.5 | [v8.2.5](https://github.com/sergiodadi/rudder-agent-Pi-arm64/releases/tag/v8.2.5) | |
-| 8.1.12 | [v8.1.12](https://github.com/sergiodadi/rudder-agent-Pi-arm64/releases/tag/v8.1.12) | |
-| 7.2.11 | [v7.2.11](https://github.com/sergiodadi/rudder-agent-Pi-arm64/releases/tag/v7.2.11) | |
+| Version | Debian 12 (Bookworm) | Debian 13 (Trixie) | Ubuntu 24.04 (Noble) | Ubuntu 26.04 (Resolute) |
+|---|---|---|---|---|
+| 9.1.5 | [v9.1.5-debian-bookworm](https://github.com/sergiodadi/rudder-agent-Pi-arm64/releases/tag/v9.1.5-debian-bookworm) | [v9.1.5-debian-trixie](https://github.com/sergiodadi/rudder-agent-Pi-arm64/releases/tag/v9.1.5-debian-trixie) | | |
+| 9.1.4 | [v9.1.4-debian-bookworm](https://github.com/sergiodadi/rudder-agent-Pi-arm64/releases/tag/v9.1.4-debian-bookworm) | | | |
+| 9.0.4 | [v9.0.4-debian-bookworm](https://github.com/sergiodadi/rudder-agent-Pi-arm64/releases/tag/v9.0.4-debian-bookworm) | | | |
+| 9.0.3 | [v9.0.3-debian-bookworm](https://github.com/sergiodadi/rudder-agent-Pi-arm64/releases/tag/v9.0.3-debian-bookworm) | | [v9.0.3-ubuntu-noble](https://github.com/sergiodadi/rudder-agent-Pi-arm64/releases/tag/v9.0.3-ubuntu-noble) | |
+| 9.0.2 | [v9.0.2-debian-bookworm](https://github.com/sergiodadi/rudder-agent-Pi-arm64/releases/tag/v9.0.2-debian-bookworm) | | [v9.0.2-ubuntu-noble](https://github.com/sergiodadi/rudder-agent-Pi-arm64/releases/tag/v9.0.2-ubuntu-noble) | |
+| 9.0.1 | [v9.0.1](https://github.com/sergiodadi/rudder-agent-Pi-arm64/releases/tag/v9.0.1) | | [v9.0.1-ubuntu-noble](https://github.com/sergiodadi/rudder-agent-Pi-arm64/releases/tag/v9.0.1-ubuntu-noble) | |
+| 9.0.0 | [v9.0.0](https://github.com/sergiodadi/rudder-agent-Pi-arm64/releases/tag/v9.0.0) | | [v9.0.0-ubuntu-noble](https://github.com/sergiodadi/rudder-agent-Pi-arm64/releases/tag/v9.0.0-ubuntu-noble) | |
+| 8.3.8 | [v8.3.8](https://github.com/sergiodadi/rudder-agent-Pi-arm64/releases/tag/v8.3.8) | | | |
+| 8.3.7 | | | [v8.3.7](https://github.com/sergiodadi/rudder-agent-Pi-arm64/releases/tag/v8.3.7) | |
+| 8.3.1 | [v8.3.1](https://github.com/sergiodadi/rudder-agent-Pi-arm64/releases/tag/v8.3.1) (distribution not specified) | | | |
+| 8.2.6 | [v8.2.6](https://github.com/sergiodadi/rudder-agent-Pi-arm64/releases/tag/v8.2.6) (distribution not specified) | | | |
+| 8.2.5 | [v8.2.5](https://github.com/sergiodadi/rudder-agent-Pi-arm64/releases/tag/v8.2.5) | | | |
+| 8.1.12 | [v8.1.12](https://github.com/sergiodadi/rudder-agent-Pi-arm64/releases/tag/v8.1.12) | | | |
+| 7.2.11 | [v7.2.11](https://github.com/sergiodadi/rudder-agent-Pi-arm64/releases/tag/v7.2.11) | | | |
 
 ## Sources
 
