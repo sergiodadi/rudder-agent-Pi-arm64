@@ -48,3 +48,7 @@ Then configure the agent as described in the [official documentation](https://do
 - Rudder agent: https://github.com/Normation/rudder-agent
 - Rudder packaging: https://github.com/Normation/rudder-packages
 - Official changelogs: https://docs.rudder.io/changelogs/current/index.html
+
+## Credits
+
+These packages were built, tested and published with the help of **Claude**, the AI assistant by [Anthropic](https://www.anthropic.com/).
