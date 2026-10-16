@@ -35,6 +35,7 @@ Then configure the agent as described in the [official documentation](https://do
 | 9.0.2 | [v9.0.2-debian-bookworm](https://github.com/sergiodadi/rudder-agent-Pi-arm64/releases/tag/v9.0.2-debian-bookworm) | | [v9.0.2-ubuntu-noble](https://github.com/sergiodadi/rudder-agent-Pi-arm64/releases/tag/v9.0.2-ubuntu-noble) | |
 | 9.0.1 | [v9.0.1](https://github.com/sergiodadi/rudder-agent-Pi-arm64/releases/tag/v9.0.1) | | [v9.0.1-ubuntu-noble](https://github.com/sergiodadi/rudder-agent-Pi-arm64/releases/tag/v9.0.1-ubuntu-noble) | |
 | 9.0.0 | [v9.0.0](https://github.com/sergiodadi/rudder-agent-Pi-arm64/releases/tag/v9.0.0) | | [v9.0.0-ubuntu-noble](https://github.com/sergiodadi/rudder-agent-Pi-arm64/releases/tag/v9.0.0-ubuntu-noble) | |
+| 8.3.13 | [v8.3.13-debian-bookworm](https://github.com/sergiodadi/rudder-agent-Pi-arm64/releases/tag/v8.3.13-debian-bookworm) |  |  |  |
 | 8.3.8 | [v8.3.8](https://github.com/sergiodadi/rudder-agent-Pi-arm64/releases/tag/v8.3.8) | | | |
 | 8.3.7 | | | [v8.3.7](https://github.com/sergiodadi/rudder-agent-Pi-arm64/releases/tag/v8.3.7) | |
 | 8.3.1 | [v8.3.1](https://github.com/sergiodadi/rudder-agent-Pi-arm64/releases/tag/v8.3.1) (distribution not specified) | | | |
